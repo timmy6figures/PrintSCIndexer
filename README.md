@@ -1,2 +1,2 @@
 # prnt.sc Indexer
- A small project to scrape screenshots from print.sc
+ A small project to scrape screenshots from prnt.sc
